@@ -5,7 +5,7 @@
 Table of contents
 =================
 <!--ts-->
-1.  [SRS](./SRS_MLMS.pdf) - Software Requirements Specification
+1.  [Vision Statment](./Vision_Stmt_MLMS.pdf) and [SRS](./SRS_MLMS.pdf) - Software Requirements Specification
 
 2.  UML Design
     - Usecase Diagram ([Part-1](./UML_Design/USE_CASE_part1.pdf) and [Part-2](./UML_Design/USE_CASE_part2.pdf))
