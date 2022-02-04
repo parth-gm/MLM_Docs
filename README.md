@@ -6,6 +6,7 @@ Table of contents
 =================
 <!--ts-->
 1.  [SRS](./SRS_MLMS.pdf) - Software Requirements Specification
+
 2.  UML Design
     - Usecase Diagram [Part-1](./UML_Design/USE_CASE_part1.pdf) and [Part-2](./UML_Design/USE_CASE_part2.pdf)
     - [Activity Diagram](./UML_Design/Activity_DIAG/)
@@ -15,9 +16,11 @@ Table of contents
 3.  Database Design
     - [ER Diagram](./DATABASE/ER_OLD.png)
     - [Data Dictionary](./DATABASE/Data Dictionary_final.pdf)
-    - [DDL](./DATABASE/DDL.png) - Data Definition Language
-    - [DML]((./DATABASE/DML.png) - Data Manipulation Language
-    - SQL Files
-4.  Data Flow Diagrams
+    - [DDL](./DATABASE/ddl.sql) - Data Definition Language
+    - [DML](./DATABASE/dml.sql) - Data Manipulation Language
+    - [Triggers and Stored Procedures](./DATABASE/trig_procedure.sql)
+    - [DB Deployment](./DATABASE/deployment_step.pdf)
+
+4.  [Data Flow Diagrams](./Data_Flow_Diagrams/Data Flow Diagram for MLMS.pdf)
 <!--te-->
 
