@@ -2,8 +2,8 @@
 
 > This Repo contains Design Documents for [MLM System](https://github.com/parth-np/MLMSystem)
 
-```
-1. [SRS](SRS_MLMS.pdf) - Software Requirements Specification
+
+1. [SRS](./SRS_MLMS.pdf) - Software Requirements Specification
 2. Database Design
   - ER Diagram
   - Data Dictionary
@@ -17,4 +17,4 @@
   - Sequence Diagram
   - State Diagram
 
-```
+
